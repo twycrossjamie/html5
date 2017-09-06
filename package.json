@@ -1,0 +1,19 @@
+{
+  "name": "html5",
+  "version": "1.0.0",
+  "description": "website japanese cooking classes",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twycrossjamie/html5.git"
+  },
+  "author": "jamie twycross",
+  "bugs": {
+    "url": "https://github.com/twycrossjamie/html5/issues"
+  },
+  "homepage": "https://github.com/twycrossjamie/html5#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.2.1"
+  }
+}
